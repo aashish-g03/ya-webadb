@@ -35,7 +35,7 @@ importers:
     devDependencies:
       '@types/node':
         specifier: ^22.5.4
-        version: 22.5.4
+        version: 22.5.5
       '@yume-chan/eslint-config':
         specifier: workspace:^1.0.0
         version: link:../../toolchain/eslint-config
@@ -69,7 +69,7 @@ importers:
     devDependencies:
       '@types/node':
         specifier: ^22.5.4
-        version: 22.5.4
+        version: 22.5.5
       '@yume-chan/eslint-config':
         specifier: workspace:^1.0.0
         version: link:../../toolchain/eslint-config
@@ -122,7 +122,7 @@ importers:
     devDependencies:
       '@types/node':
         specifier: ^22.5.4
-        version: 22.5.4
+        version: 22.5.5
       '@yume-chan/eslint-config':
         specifier: workspace:^1.0.0
         version: link:../../toolchain/eslint-config
@@ -187,7 +187,7 @@ importers:
     devDependencies:
       '@types/node':
         specifier: ^22.5.4
-        version: 22.5.4
+        version: 22.5.5
       '@yume-chan/eslint-config':
         specifier: workspace:^1.0.0
         version: link:../../toolchain/eslint-config
@@ -215,7 +215,7 @@ importers:
     devDependencies:
       '@types/node':
         specifier: ^22.5.4
-        version: 22.5.4
+        version: 22.5.5
       '@yume-chan/eslint-config':
         specifier: workspace:^1.0.0
         version: link:../../toolchain/eslint-config
@@ -259,7 +259,7 @@ importers:
     devDependencies:
       '@types/node':
         specifier: ^22.5.4
-        version: 22.5.4
+        version: 22.5.5
       '@yume-chan/eslint-config':
         specifier: workspace:^1.0.0
         version: link:../../toolchain/eslint-config
@@ -284,13 +284,13 @@ importers:
     devDependencies:
       '@types/node':
         specifier: ^22.5.4
-        version: 22.5.4
+        version: 22.5.5
 
   libraries/no-data-view:
     devDependencies:
       '@types/node':
         specifier: ^22.5.4
-        version: 22.5.4
+        version: 22.5.5
       '@yume-chan/eslint-config':
         specifier: workspace:^1.0.0
         version: link:../../toolchain/eslint-config
@@ -345,7 +345,7 @@ importers:
     devDependencies:
       '@types/node':
         specifier: ^22.5.4
-        version: 22.5.4
+        version: 22.5.5
       '@yume-chan/eslint-config':
         specifier: workspace:^1.0.0
         version: link:../../toolchain/eslint-config
@@ -441,7 +441,7 @@ importers:
     devDependencies:
       '@types/node':
         specifier: ^22.5.4
-        version: 22.5.4
+        version: 22.5.5
       '@yume-chan/eslint-config':
         specifier: workspace:^1.0.0
         version: link:../../toolchain/eslint-config
@@ -466,7 +466,7 @@ importers:
     devDependencies:
       '@types/node':
         specifier: ^22.5.4
-        version: 22.5.4
+        version: 22.5.5
       '@yume-chan/eslint-config':
         specifier: workspace:^1.0.0
         version: link:../../toolchain/eslint-config
@@ -490,7 +490,7 @@ importers:
         version: 9.10.0
       '@types/node':
         specifier: ^22.5.4
-        version: 22.5.4
+        version: 22.5.5
       eslint:
         specifier: ^9.10.0
         version: 9.10.0
@@ -512,7 +512,7 @@ importers:
     dependencies:
       '@types/node':
         specifier: ^22.5.4
-        version: 22.5.4
+        version: 22.5.5
       json5:
         specifier: ^2.2.3
         version: 2.2.3
@@ -521,7 +521,7 @@ importers:
     devDependencies:
       '@types/node':
         specifier: ^22.5.4
-        version: 22.5.4
+        version: 22.5.5
       typescript:
         specifier: ^5.6.2
         version: 5.6.2
@@ -669,8 +669,8 @@ packages:
   '@types/node@12.20.55':
     resolution: {integrity: sha512-J8xLz7q2OFulZ2cyGTLE1TbbZcjpno7FaN6zdJNrgAdrJ+DZzh/uFR6YrTb4C+nXakvud8Q4+rbhoIWlYQbUFQ==}
 
-  '@types/node@22.5.4':
-    resolution: {integrity: sha512-FDuKUJQm/ju9fT/SeX/6+gBzoPzlVCzfzmGkwKvRHQVxi4BntVbyIwf6a4Xn62mrvndLiml6z/UBXIdEVjQLXg==}
+  '@types/node@22.5.5':
+    resolution: {integrity: sha512-Xjs4y5UPO/CLdzpgR6GirZJx36yScjh73+2NlLlkFRSoQN8B0DpfXPdZGnvVmLRLOsqDpOfTNv7D9trgGhmOIA==}
 
   '@types/semver@7.5.8':
     resolution: {integrity: sha512-I8EUhyrgfLrcTkzV3TSsGyl1tSuPrEDzr0yd5m90UgNxQkyDXULk3b6MlQqTCpZpNtWe1K0hzclnZkTcLBe2UQ==}
@@ -1943,7 +1943,7 @@ snapshots:
 
   '@types/node@12.20.55': {}
 
-  '@types/node@22.5.4':
+  '@types/node@22.5.5':
     dependencies:
       undici-types: 6.19.8
 
